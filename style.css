@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+ 
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.div-0 {
+    margin: 0;
+    position: relative;
+}
+
+.div-1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+
+.div-2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.div-3 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    margin-left: 200px;
+
+}
